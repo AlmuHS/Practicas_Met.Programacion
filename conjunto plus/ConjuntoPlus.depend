@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1385047119 source:/home/almu/conjunto plus/aux.cpp
+	"aux.h"
+
+1383144396 /home/almu/conjunto plus/aux.h
+	"fracc.h"
+
+1384958228 /home/almu/conjunto plus/fracc.h
+	"aux.h"
+	<ostream>
+	<istream>
+
+1386784388 source:/home/almu/conjunto plus/conjunto.cpp
+	"conjunto.h"
+
+1384990912 /home/almu/conjunto plus/conjunto.h
+	"fracc.h"
+	<iostream>
+
+1386799473 source:/home/almu/conjunto plus/conjuntoplus.cpp
+	"conjuntoplus.h"
+
+1386784113 source:/home/almu/conjunto plus/fracc.cpp
+	"fracc.h"
+	<iostream>
+
+1386783394 /home/almu/conjunto plus/conjuntoplus.h
+	"conjunto.h"
+	<iostream>
+
+1386772709 source:/home/almu/conjunto plus/main.cpp
+	<cstdlib>
+	<iostream>
+	"fracc.h"
+	"conjunto.h"
+	"conjuntoplus.h"
+

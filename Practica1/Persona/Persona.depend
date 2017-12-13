@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1394407040 source:/home/almu/Practica1/Persona/main.cpp
+	<iostream>
+
+1394408626 source:/home/almu/Practica1/Persona/Persona.cpp
+	"Persona.h"
+
+1394408214 /home/almu/Practica1/Persona/Persona.h
+	<string>
+

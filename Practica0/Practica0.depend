@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1382441038 source:/usr/home/almu/Desktop/Practica0/main.cpp
+	<iostream>
+
+1383141942 source:/usr/home/almu/Desktop/Practica0/fracc.cpp
+	"fracc.h"
+	<iostream>
+
+1383141973 /usr/home/almu/Desktop/Practica0/fracc.h
+	"aux.h"
+
+1383133261 source:/usr/home/almu/Desktop/Practica0/aux.cpp
+	"aux.h"
+
+1383133234 /usr/home/almu/Desktop/Practica0/aux.h
+	"fracc.h"
+

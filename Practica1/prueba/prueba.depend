@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1394440312 source:/home/almu/Practica1/prueba/main.cpp
+	<iostream>
+	"../Multiconjunto/Multiconjunto.h"
+	"../Persona/Persona.h"
+
+1394438457 /home/almu/Practica1/Multiconjunto/Multiconjunto.h
+	"../Persona/Persona.h"
+
+1394408214 /home/almu/Practica1/Persona/Persona.h
+	<string>
+
